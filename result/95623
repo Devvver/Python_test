@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95623</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>4885 SUMMIT VIEW DR</th><th>EL DORADO</th><th>95623</th><th>CA</th><th>3</th><th>2</th><th>1624</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>289000</th><th>38.673285</th><th>-120.879176</th></tr><tr><th>6320 EL DORADO ST</th><th>EL DORADO</th><th>95623</th><th>CA</th><th>2</th><th>1</th><th>1040</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>205000</th><th>38.678758</th><th>-120.844118</th></tr><tr><th>4885 SUMMIT VIEW DR</th><th>EL DORADO</th><th>95623</th><th>CA</th><th>3</th><th>2</th><th>1624</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>289000</th><th>38.673285</th><th>-120.879176</th></tr><tr><th>6320 EL DORADO ST</th><th>EL DORADO</th><th>95623</th><th>CA</th><th>2</th><th>1</th><th>1040</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>205000</th><th>38.678758</th><th>-120.844118</th></tr>
+        </table>
+    </body>
+    </html>

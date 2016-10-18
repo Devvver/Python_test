@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95663</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>1500 ORANGE HILL LN</th><th>PENRYN</th><th>95663</th><th>CA</th><th>3</th><th>2</th><th>1320</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>506688</th><th>38.862708</th><th>-121.162092</th></tr><tr><th>1500 ORANGE HILL LN</th><th>PENRYN</th><th>95663</th><th>CA</th><th>3</th><th>2</th><th>1320</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>506688</th><th>38.862708</th><th>-121.162092</th></tr>
+        </table>
+    </body>
+    </html>

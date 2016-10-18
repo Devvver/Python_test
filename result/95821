@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95821</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>2216 DUNLAP DR</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1014</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>113000</th><th>38.623738</th><th>-121.41305</th></tr><tr><th>2931 HOWE AVE</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1264</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>140000</th><th>38.619012</th><th>-121.415329</th></tr><tr><th>2561 VERNA WAY</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1473</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>195000</th><th>38.611055</th><th>-121.369964</th></tr><tr><th>3450 WHITNOR CT</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>2</th><th>1828</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>250000</th><th>38.627698</th><th>-121.369698</th></tr><tr><th>3108 DELWOOD WAY</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>4</th><th>2</th><th>2053</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>450000</th><th>38.621566</th><th>-121.370882</th></tr><tr><th>3528 SAINT GEORGE DR</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1040</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>224000</th><th>38.629468</th><th>-121.376445</th></tr><tr><th>2216 DUNLAP DR</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1014</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>113000</th><th>38.623738</th><th>-121.41305</th></tr><tr><th>2931 HOWE AVE</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1264</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>140000</th><th>38.619012</th><th>-121.415329</th></tr><tr><th>2561 VERNA WAY</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1473</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>195000</th><th>38.611055</th><th>-121.369964</th></tr><tr><th>3450 WHITNOR CT</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>2</th><th>1828</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>250000</th><th>38.627698</th><th>-121.369698</th></tr><tr><th>3108 DELWOOD WAY</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>4</th><th>2</th><th>2053</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>450000</th><th>38.621566</th><th>-121.370882</th></tr><tr><th>3528 SAINT GEORGE DR</th><th>SACRAMENTO</th><th>95821</th><th>CA</th><th>3</th><th>1</th><th>1040</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>224000</th><th>38.629468</th><th>-121.376445</th></tr>
+        </table>
+    </body>
+    </html>

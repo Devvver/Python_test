@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95864</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>4004 CRESTA WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>3</th><th>2325</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>660000</th><th>38.591618</th><th>-121.370626</th></tr><tr><th>3847 LAS PASAS WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>1</th><th>1643</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>99000</th><th>38.588672</th><th>-121.373916</th></tr><tr><th>909 SINGINGWOOD RD</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>2</th><th>1</th><th>930</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>203000</th><th>38.581471</th><th>-121.38839</th></tr><tr><th>4204 LUSK DR</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>2</th><th>1360</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>315000</th><th>38.606569</th><th>-121.368424</th></tr><tr><th>3863 LAS PASAS WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>1</th><th>1348</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>545000</th><th>38.588936</th><th>-121.373606</th></tr><tr><th>4004 CRESTA WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>3</th><th>2325</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>660000</th><th>38.591618</th><th>-121.370626</th></tr><tr><th>3847 LAS PASAS WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>1</th><th>1643</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>99000</th><th>38.588672</th><th>-121.373916</th></tr><tr><th>909 SINGINGWOOD RD</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>2</th><th>1</th><th>930</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>203000</th><th>38.581471</th><th>-121.38839</th></tr><tr><th>4204 LUSK DR</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>2</th><th>1360</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>315000</th><th>38.606569</th><th>-121.368424</th></tr><tr><th>3863 LAS PASAS WAY</th><th>SACRAMENTO</th><th>95864</th><th>CA</th><th>3</th><th>1</th><th>1348</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>545000</th><th>38.588936</th><th>-121.373606</th></tr>
+        </table>
+    </body>
+    </html>

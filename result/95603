@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95603</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>1740 HIGH ST</th><th>AUBURN</th><th>95603</th><th>CA</th><th>3</th><th>3</th><th>0</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>504000</th><th>38.891935</th><th>-121.08434</th></tr><tr><th>2231 COUNTRY VILLA CT</th><th>AUBURN</th><th>95603</th><th>CA</th><th>2</th><th>2</th><th>1255</th><th>Condo</th><th>Mon May 19 00:00:00 EDT 2008</th><th>260000</th><th>38.931671</th><th>-121.097862</th></tr><tr><th>220 OLD AIRPORT RD</th><th>AUBURN</th><th>95603</th><th>CA</th><th>2</th><th>2</th><th>960</th><th>Multi-Family</th><th>Mon May 19 00:00:00 EDT 2008</th><th>285000</th><th>38.939802</th><th>-121.054575</th></tr><tr><th>1484 RADCLIFFE WAY</th><th>AUBURN</th><th>95603</th><th>CA</th><th>4</th><th>3</th><th>2278</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>420454</th><th>38.935579</th><th>-121.079018</th></tr><tr><th>820 DANA CT</th><th>AUBURN</th><th>95603</th><th>CA</th><th>4</th><th>3</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>560000</th><th>38.865246</th><th>-121.094869</th></tr><tr><th>1740 HIGH ST</th><th>AUBURN</th><th>95603</th><th>CA</th><th>3</th><th>3</th><th>0</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>504000</th><th>38.891935</th><th>-121.08434</th></tr><tr><th>2231 COUNTRY VILLA CT</th><th>AUBURN</th><th>95603</th><th>CA</th><th>2</th><th>2</th><th>1255</th><th>Condo</th><th>Mon May 19 00:00:00 EDT 2008</th><th>260000</th><th>38.931671</th><th>-121.097862</th></tr><tr><th>220 OLD AIRPORT RD</th><th>AUBURN</th><th>95603</th><th>CA</th><th>2</th><th>2</th><th>960</th><th>Multi-Family</th><th>Mon May 19 00:00:00 EDT 2008</th><th>285000</th><th>38.939802</th><th>-121.054575</th></tr><tr><th>1484 RADCLIFFE WAY</th><th>AUBURN</th><th>95603</th><th>CA</th><th>4</th><th>3</th><th>2278</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>420454</th><th>38.935579</th><th>-121.079018</th></tr><tr><th>820 DANA CT</th><th>AUBURN</th><th>95603</th><th>CA</th><th>4</th><th>3</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>560000</th><th>38.865246</th><th>-121.094869</th></tr>
+        </table>
+    </body>
+    </html>

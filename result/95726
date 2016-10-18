@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95726</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>5615 LUPIN LN</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>3</th><th>2</th><th>1380</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>265000</th><th>38.708315</th><th>-120.603872</th></tr><tr><th>2900 BLAIR RD</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>2</th><th>2</th><th>1284</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>280908</th><th>38.75485</th><th>-120.60476</th></tr><tr><th>2250 FOREBAY RD</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>3</th><th>1</th><th>1320</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>175000</th><th>38.77491</th><th>-120.597599</th></tr><tr><th>5615 LUPIN LN</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>3</th><th>2</th><th>1380</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>265000</th><th>38.708315</th><th>-120.603872</th></tr><tr><th>2900 BLAIR RD</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>2</th><th>2</th><th>1284</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>280908</th><th>38.75485</th><th>-120.60476</th></tr><tr><th>2250 FOREBAY RD</th><th>POLLOCK PINES</th><th>95726</th><th>CA</th><th>3</th><th>1</th><th>1320</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>175000</th><th>38.77491</th><th>-120.597599</th></tr>
+        </table>
+    </body>
+    </html>

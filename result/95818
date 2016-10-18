@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95818</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>1838 CASTRO WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1126</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>292024</th><th>38.556098</th><th>-121.490787</th></tr><tr><th>3622 CURTIS DR</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>3</th><th>1</th><th>1639</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>388000</th><th>38.541735</th><th>-121.480098</th></tr><tr><th>1833 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1032</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>220000</th><th>38.556818</th><th>-121.490669</th></tr><tr><th>1828 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1144</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>299000</th><th>38.556844</th><th>-121.490769</th></tr><tr><th>1124 PERKINS WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1304</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>413500</th><th>38.551611</th><th>-121.504437</th></tr><tr><th>2601 SAN FERNANDO WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>881</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>165000</th><th>38.556178</th><th>-121.476256</th></tr><tr><th>2221 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>2</th><th>1089</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>205000</th><th>38.555781</th><th>-121.485331</th></tr><tr><th>1838 CASTRO WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1126</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>292024</th><th>38.556098</th><th>-121.490787</th></tr><tr><th>3622 CURTIS DR</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>3</th><th>1</th><th>1639</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>388000</th><th>38.541735</th><th>-121.480098</th></tr><tr><th>1833 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1032</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>220000</th><th>38.556818</th><th>-121.490669</th></tr><tr><th>1828 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1144</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>299000</th><th>38.556844</th><th>-121.490769</th></tr><tr><th>1124 PERKINS WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>1304</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>413500</th><th>38.551611</th><th>-121.504437</th></tr><tr><th>2601 SAN FERNANDO WAY</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>1</th><th>881</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>165000</th><th>38.556178</th><th>-121.476256</th></tr><tr><th>2221 2ND AVE</th><th>SACRAMENTO</th><th>95818</th><th>CA</th><th>2</th><th>2</th><th>1089</th><th>Residential</th><th>Thu May 15 00:00:00 EDT 2008</th><th>205000</th><th>38.555781</th><th>-121.485331</th></tr>
+        </table>
+    </body>
+    </html>

@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>COOL</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>2341 BIG STRIKE TRL</th><th>COOL</th><th>95614</th><th>CA</th><th>3</th><th>2</th><th>1457</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>300000</th><th>38.905927</th><th>-120.975169</th></tr><tr><th>2341 BIG STRIKE TRL</th><th>COOL</th><th>95614</th><th>CA</th><th>3</th><th>2</th><th>1457</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>300000</th><th>38.905927</th><th>-120.975169</th></tr>
+        </table>
+    </body>
+    </html>

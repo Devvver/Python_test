@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95661</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>2981 WRINGER DR</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>3</th><th>3838</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>613401</th><th>38.735373</th><th>-121.227072</th></tr><tr><th>1786 PIEDMONT WAY</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>1</th><th>1152</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>188325</th><th>38.72748</th><th>-121.256537</th></tr><tr><th>500 WINCHESTER CT</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>2</th><th>2274</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>470000</th><th>38.73988</th><th>-121.248929</th></tr><tr><th>3930 ANNABELLE AVE</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>2</th><th>1</th><th>796</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>190000</th><th>38.727609</th><th>-121.226494</th></tr><tr><th>1407 TIFFANY CIR</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>1</th><th>1376</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>215000</th><th>38.736392</th><th>-121.2664</th></tr><tr><th>506 BEDFORD CT</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>2</th><th>2295</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>360000</th><th>38.733985</th><th>-121.236766</th></tr><tr><th>1975 SIDESADDLE WAY</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>2</th><th>2049</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>395500</th><th>38.737872</th><th>-121.249025</th></tr><tr><th>3212 CORNICHE LN</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>3</th><th>2379</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>455000</th><th>38.750577</th><th>-121.232768</th></tr><tr><th>2981 WRINGER DR</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>3</th><th>3838</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>613401</th><th>38.735373</th><th>-121.227072</th></tr><tr><th>1786 PIEDMONT WAY</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>1</th><th>1152</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>188325</th><th>38.72748</th><th>-121.256537</th></tr><tr><th>500 WINCHESTER CT</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>2</th><th>2274</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>470000</th><th>38.73988</th><th>-121.248929</th></tr><tr><th>3930 ANNABELLE AVE</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>2</th><th>1</th><th>796</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>190000</th><th>38.727609</th><th>-121.226494</th></tr><tr><th>1407 TIFFANY CIR</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>1</th><th>1376</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>215000</th><th>38.736392</th><th>-121.2664</th></tr><tr><th>506 BEDFORD CT</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>2</th><th>2295</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>360000</th><th>38.733985</th><th>-121.236766</th></tr><tr><th>1975 SIDESADDLE WAY</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>3</th><th>2</th><th>2049</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>395500</th><th>38.737872</th><th>-121.249025</th></tr><tr><th>3212 CORNICHE LN</th><th>ROSEVILLE</th><th>95661</th><th>CA</th><th>4</th><th>3</th><th>2379</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>455000</th><th>38.750577</th><th>-121.232768</th></tr>
+        </table>
+    </body>
+    </html>

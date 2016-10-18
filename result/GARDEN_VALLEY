@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>GARDEN VALLEY</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>6401 MARSHALL RD</th><th>GARDEN VALLEY</th><th>95633</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>490000</th><th>38.84255</th><th>-120.8754</th></tr><tr><th>6401 MARSHALL RD</th><th>GARDEN VALLEY</th><th>95633</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>490000</th><th>38.84255</th><th>-120.8754</th></tr>
+        </table>
+    </body>
+    </html>

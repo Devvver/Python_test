@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>ELVERTA</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>7944 DOMINION WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1116</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>138750</th><th>38.713182</th><th>-121.411227</th></tr><tr><th>2505 RHINE WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1080</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>126000</th><th>38.717976</th><th>-121.407684</th></tr><tr><th>7741 MILLDALE CIR</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>4</th><th>2</th><th>1354</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>126714</th><th>38.705834</th><th>-121.43919</th></tr><tr><th>2421 SANTINA WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1416</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>140000</th><th>38.71865</th><th>-121.407763</th></tr><tr><th>7944 DOMINION WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1116</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>138750</th><th>38.713182</th><th>-121.411227</th></tr><tr><th>2505 RHINE WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1080</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>126000</th><th>38.717976</th><th>-121.407684</th></tr><tr><th>7741 MILLDALE CIR</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>4</th><th>2</th><th>1354</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>126714</th><th>38.705834</th><th>-121.43919</th></tr><tr><th>2421 SANTINA WAY</th><th>ELVERTA</th><th>95626</th><th>CA</th><th>3</th><th>2</th><th>1416</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>140000</th><th>38.71865</th><th>-121.407763</th></tr>
+        </table>
+    </body>
+    </html>

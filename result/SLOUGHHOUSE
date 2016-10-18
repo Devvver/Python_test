@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>SLOUGHHOUSE</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>14151 INDIO DR</th><th>SLOUGHHOUSE</th><th>95683</th><th>CA</th><th>3</th><th>4</th><th>5822</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>2000</th><th>38.490447</th><th>-121.129337</th></tr><tr><th>14151 INDIO DR</th><th>SLOUGHHOUSE</th><th>95683</th><th>CA</th><th>3</th><th>4</th><th>5822</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>2000</th><th>38.490447</th><th>-121.129337</th></tr>
+        </table>
+    </body>
+    </html>

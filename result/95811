@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95811</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>1620 BASLER ST</th><th>SACRAMENTO</th><th>95811</th><th>CA</th><th>4</th><th>2</th><th>1718</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>361948</th><th>38.591822</th><th>-121.478644</th></tr><tr><th>427 21ST ST</th><th>SACRAMENTO</th><th>95811</th><th>CA</th><th>2</th><th>1</th><th>1247</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>445000</th><th>38.582604</th><th>-121.47576</th></tr><tr><th>1620 BASLER ST</th><th>SACRAMENTO</th><th>95811</th><th>CA</th><th>4</th><th>2</th><th>1718</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>361948</th><th>38.591822</th><th>-121.478644</th></tr><tr><th>427 21ST ST</th><th>SACRAMENTO</th><th>95811</th><th>CA</th><th>2</th><th>1</th><th>1247</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>445000</th><th>38.582604</th><th>-121.47576</th></tr>
+        </table>
+    </body>
+    </html>

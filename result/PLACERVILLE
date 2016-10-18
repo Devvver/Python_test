@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>PLACERVILLE</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>2370 BIG CANYON CREEK RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>205000</th><th>38.74458</th><th>-120.794254</th></tr><tr><th>1889 COLD SPRINGS RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>2</th><th>1</th><th>948</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>211500</th><th>38.739774</th><th>-120.860243</th></tr><tr><th>4487 PANORAMA DR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>1329</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>300000</th><th>38.694559</th><th>-120.848157</th></tr><tr><th>1230 SANDRA CIR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>3</th><th>2295</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>350000</th><th>38.738141</th><th>-120.784145</th></tr><tr><th>9970 STATE HIGHWAY 193</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>3</th><th>1929</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>485000</th><th>38.787877</th><th>-120.816676</th></tr><tr><th>2113 FALL TRAIL CT</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>2</th><th>0</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>371086</th><th>38.733155</th><th>-120.748039</th></tr><tr><th>2400 COUNTRYSIDE DR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>2025</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>677048</th><th>38.737452</th><th>-120.910963</th></tr><tr><th>6001 SHOO FLY RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>0</th><th>0</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>270000</th><th>38.813546</th><th>-120.809254</th></tr><tr><th>865 CONRAD CT</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>294000</th><th>38.729993</th><th>-120.802458</th></tr><tr><th>4320 FOUR SEASONS RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>475000</th><th>38.690867</th><th>-120.693641</th></tr><tr><th>2370 BIG CANYON CREEK RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>205000</th><th>38.74458</th><th>-120.794254</th></tr><tr><th>1889 COLD SPRINGS RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>2</th><th>1</th><th>948</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>211500</th><th>38.739774</th><th>-120.860243</th></tr><tr><th>4487 PANORAMA DR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>1329</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>300000</th><th>38.694559</th><th>-120.848157</th></tr><tr><th>1230 SANDRA CIR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>3</th><th>2295</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>350000</th><th>38.738141</th><th>-120.784145</th></tr><tr><th>9970 STATE HIGHWAY 193</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>3</th><th>1929</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>485000</th><th>38.787877</th><th>-120.816676</th></tr><tr><th>2113 FALL TRAIL CT</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>4</th><th>2</th><th>0</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>371086</th><th>38.733155</th><th>-120.748039</th></tr><tr><th>2400 COUNTRYSIDE DR</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>2025</th><th>Residential</th><th>Mon May 19 00:00:00 EDT 2008</th><th>677048</th><th>38.737452</th><th>-120.910963</th></tr><tr><th>6001 SHOO FLY RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>0</th><th>0</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>270000</th><th>38.813546</th><th>-120.809254</th></tr><tr><th>865 CONRAD CT</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>294000</th><th>38.729993</th><th>-120.802458</th></tr><tr><th>4320 FOUR SEASONS RD</th><th>PLACERVILLE</th><th>95667</th><th>CA</th><th>3</th><th>2</th><th>0</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>475000</th><th>38.690867</th><th>-120.693641</th></tr>
+        </table>
+    </body>
+    </html>

@@ -1,0 +1,28 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Test</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <table border="1">
+            <caption>95650</caption>
+            <tr>
+                <th>street</th>
+                <th>city</th>
+                <th>zip</th>
+                <th>state</th>
+                <th>beds</th>
+                <th>baths</th>
+                <th>sq__ft</th>
+                <th>type</th>
+                <th>sale_date</th>
+                <th>price</th>
+                <th>latitude</th>
+                <th>longitude</th>
+            </tr>
+            <tr><th>3935 EL MONTE DR</th><th>LOOMIS</th><th>95650</th><th>CA</th><th>4</th><th>4</th><th>1624</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>839000</th><th>38.813337</th><th>-121.133348</th></tr><tr><th>5747 KING RD</th><th>LOOMIS</th><th>95650</th><th>CA</th><th>4</th><th>2</th><th>1328</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>295000</th><th>38.825096</th><th>-121.198432</th></tr><tr><th>3935 EL MONTE DR</th><th>LOOMIS</th><th>95650</th><th>CA</th><th>4</th><th>4</th><th>1624</th><th>Residential</th><th>Tue May 20 00:00:00 EDT 2008</th><th>839000</th><th>38.813337</th><th>-121.133348</th></tr><tr><th>5747 KING RD</th><th>LOOMIS</th><th>95650</th><th>CA</th><th>4</th><th>2</th><th>1328</th><th>Residential</th><th>Fri May 16 00:00:00 EDT 2008</th><th>295000</th><th>38.825096</th><th>-121.198432</th></tr>
+        </table>
+    </body>
+    </html>
