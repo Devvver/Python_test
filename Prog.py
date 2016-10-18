@@ -11,7 +11,7 @@ result_path = "result" #слэш в конце не ставить
 
 #считаем параметры коммандной строки
 if len(sys.argv) > 1:
-    if sys.argv[1].endswith(".csv"):
+    if ( len(sys.argv[1])>4 and sys.argv[1].endswith(".csv") ):
 	    csv_file = sys.argv[1]
     else:
         print("Неверно указан *.csv файл (первый параметр)\nВыбран файл по-умолчанию (Sacramentorealestatetransactions.csv)")
@@ -64,7 +64,7 @@ def add_rec(row):
 def create_table(col_name,result_path,param):
     c2 = conn.cursor()
     substr = ""
-    #в зависимости от выберем нужный запрос
+    #в зависимости от столбца по которому группируем выберем нужный запрос
     if (col_name == "city"):
         c2.execute("SELECT * FROM records WHERE city='%s'" % str(param) )
     else:
