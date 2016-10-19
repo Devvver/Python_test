@@ -132,9 +132,9 @@ row = c.fetchone()
 #Сформируем гипперсылки на таблицы с информацией по городам
 substr1 = ""
 while row is not None:
-    substr1 += "<a href=\%s/%s/%s>%s</a>, " % (os.path.abspath(os.curdir),result_path,str(row)[3:-3].replace(" ","_"),str(row)[3:-3]) #использовал срез т.к. иначе выводит в виде (u'CITY',)   :(
+    substr1 += "<a href=./%s/%s>%s</a>, " % (result_path,str(row[0]).replace(" ","_"),str(row[0]))
     #заодно тут же создадим таблицу по данному городу
-    create_table("city",result_path,str(row)[3:-3])
+    create_table("city",result_path,str(row[0]))
     row = c.fetchone()
 
 #Запрашиваем из базы список уникальных Zip-кодов
@@ -144,9 +144,9 @@ row = c.fetchone()
 #Сформируем гипперсылки на таблицы с информацией по zip-кодам
 substr2 = ""
 while row is not None:
-    substr2 += "<a href=\%s/%s/%s>%s</a>, " % (os.path.abspath(os.curdir),result_path,str(row)[1:-2],str(row)[1:-2]) #использовал срез т.к. иначе выводит в виде (95111,)   :(
+    substr2 += "<a href=./%s/%s>%s</a>, " % (result_path,str(row[0]),row[0])
     #заодно тут же создадим таблицу по данному zip-коду
-    create_table("zip",result_path,str(row)[1:-2])
+    create_table("zip",result_path,str(row[0]))
     row = c.fetchone()
 
 #формирем страницу index
@@ -174,6 +174,9 @@ index = """
 f = open('index.html', 'w')
 f.write(index)
 f.close()
+
+#удалим таблицу в БД sqlite3
+c.execute("DROP TABLE records")
 
 #Завершение соединения
 c.close()

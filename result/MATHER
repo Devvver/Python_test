@@ -22,7 +22,7 @@
                 <th>latitude</th>
                 <th>longitude</th>
             </tr>
-            <tr><th>4243 MIDDLEBURY WAY</th><th>MATHER</th><th>95655</th><th>CA</th><th>3</th><th>2</th><th>2093</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>237800</th><th>38.547991</th><th>-121.280483</th></tr><tr><th>4243 MIDDLEBURY WAY</th><th>MATHER</th><th>95655</th><th>CA</th><th>3</th><th>2</th><th>2093</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>237800</th><th>38.547991</th><th>-121.280483</th></tr>
+            <tr><th>4243 MIDDLEBURY WAY</th><th>MATHER</th><th>95655</th><th>CA</th><th>3</th><th>2</th><th>2093</th><th>Residential</th><th>Wed May 21 00:00:00 EDT 2008</th><th>237800</th><th>38.547991</th><th>-121.280483</th></tr>
         </table>
     </body>
     </html>
