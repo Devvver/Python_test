@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Devvver/Python_test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Devvver/learn-python3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\user\PycharmProjects" />
